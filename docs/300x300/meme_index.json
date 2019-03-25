@@ -1,10 +1,10 @@
 {
    "memes":[
-      "hellothere":   { href: "/private/data/hellothere_00.jpg.txi",   timeout: 1100, fontSize: 40, text: "Hello there"},
-      "funbegins":    { href: "/private/data/funbegins_00.jpg.txi",    timeout: 500,  fontSize: 24, text: "This is where the fun begins"},
-      "younglings":   { href: "/private/data/younglings_00.jpg.txi",   timeout: 0,    fontSize: 40, text: ""},
-      "maul":         { href: "/private/data/maul_00.jpg.txi",         timeout: 0,    fontSize: 40, text: ""},
-      "doit":         { href: "/private/data/doit_00.jpg.txi",         timeout: 1100, fontSize: 40, text: "Do it"},
-      "iamthesenate": { href: "/private/data/iamthesenate_00.jpg.txi", timeout: 500,  fontSize: 40, text: "I am the senate"}
+      "hellothere":   { "href": "/private/data/hellothere_00.jpg.txi",   "timeout": 1100, "fontSize": 40, "text": "Hello there"},
+      "funbegins":    { "href": "/private/data/funbegins_00.jpg.txi",    "timeout": 500,  "fontSize": 24, "text": "This is where the fun begins"},
+      "younglings":   { "href": "/private/data/younglings_00.jpg.txi",   "timeout": 0,    "fontSize": 40, "text": ""},
+      "maul":         { "href": "/private/data/maul_00.jpg.txi",         "timeout": 0,    "fontSize": 40, "text": ""},
+      "doit":         { "href": "/private/data/doit_00.jpg.txi",         "timeout": 1100, "fontSize": 40, "text": "Do it"},
+      "iamthesenate": { "href": "/private/data/iamthesenate_00.jpg.txi", "timeout": 500,  "fontSize": 40, "text": "I am the senate"}
    ]
 }
